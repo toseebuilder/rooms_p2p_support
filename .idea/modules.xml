@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rooms_p2p_support.iml" filepath="$PROJECT_DIR$/.idea/modules/rooms_p2p_support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rooms_p2p_support.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.iml" filepath="$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tscastp2p/rooms_p2p_support.tscastp2p.unitTest.iml" />
+    </modules>
+  </component>
+</project>
